@@ -1,2 +1,2 @@
-# instagram
+# Instagram
  Instagram Page
